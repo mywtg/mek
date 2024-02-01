@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/bash
 
 #
 # InfoWeb . Version 2.0
