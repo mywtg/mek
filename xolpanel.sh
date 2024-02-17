@@ -20,9 +20,9 @@ clear
 echo "Done"
 echo "Your Data Bot"
 echo -e "==============================="
-echo "DOMAIN         : $bottoken"
+echo "DOMAIN         : $domain"
 echo "Email          : $admin"
-echo "Api Key        : $domain"
+echo "Api Key        : $bottoken"
 echo -e "==============================="
 echo "Setting done"
 
